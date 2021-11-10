@@ -6,7 +6,7 @@
 
 #### By: Jin Yang, Ryan Craig, Brandon Hernandez
 
-[Git](https://github.com/jinyangb/Filmzilla) | [Trello](https://trello.com/b/RphGtCV2/filmzilla) | [FilmZilla](https://filmzilla.herokuapp.com/)
+[LinkedIn](https://www.linkedin.com/in/ryancraigeit/) | [Trello](https://trello.com/b/RphGtCV2/filmzilla) | [FilmZilla](https://filmzilla.herokuapp.com/)
 
 ---
 
